@@ -18,3 +18,7 @@ It contains scripts to modify four input features of drugs (Target, Enzyme, Path
 
 # Encoder
 This file is using sentence transformer to translate drug-drug interaction description to vectors. Then, k-means cluster is applied to group the description into categories based on the embedding space.
+
+# Author
+Created by: Qiuyang Feng
+Contact: frankfeng1202@gmail.com
