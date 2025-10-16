@@ -19,6 +19,9 @@ It contains scripts to modify four input features of drugs (Target, Enzyme, Path
 # Encoder
 This file uses the sentence transformer to translate drug-drug interaction descriptions to vectors. Then, k-means cluster is applied to group the description into categories based on the embedding space.
 
+# Feature Analysis
+It contains the method to investigate the best combination of drug features that causes the best prediction results.
+
 # DDI Model Running and Evaluation
 This file documents the model running for KNN, RF, XGBOOST, DNN with and without SMOTE oversampling. Then, the plot of AUPR across models and the confusion matrix are provided to visualize the results.
 
