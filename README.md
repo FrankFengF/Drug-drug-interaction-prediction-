@@ -1,6 +1,13 @@
 # Drug-drug-interaction-prediction
 Use similarity-based machine learning approach to predict drug-drug interactions
 
+## Workflow Overview
+Below shows the graphic abstract of the overall workflow:
+
+<p align="center">
+  <img src="images/Workflow.png" width="500" alt="Workflow">
+</p>
+
 
 # Requirements
 To run this notebook, the following dependencies must be installed:
