@@ -19,8 +19,12 @@ It contains scripts to modify four input features of drugs (Target, Enzyme, Path
 # Encoder
 This file uses the sentence transformer to translate drug-drug interaction descriptions to vectors. Then, k-means cluster is applied to group the description into categories based on the embedding space.
 
+# DDI Model Running and Evaluation
+This file documents the model running for KNN, RF, XGBOOST, DNN with and without SMOTE oversampling. Then, the plot of AUPR across models and the confusion matrix are provided to visualize the results.
+
 # ADASYN+Attention
-This file used ADASYN to oversample the dataset and found that the effect of ADASYN was much worse than using SMOTE. Also, an attention mechanism was applied to evaluate the top influential factors of the model, which corresponded to the pharmacological explanations
+This file uses ADASYN to oversample the dataset and records that the effect of ADASYN was much worse than using SMOTE. Also, an attention mechanism is applied to evaluate the top influential factors of the model, which corresponds to the pharmacological explanations
+
 
 # Author
 Created by: Qiuyang Feng
