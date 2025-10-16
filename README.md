@@ -5,7 +5,7 @@ Use similarity-based machine learning approach to predict drug-drug interactions
 Below shows the graphic abstract of the overall workflow:
 
 <p align="center">
-  <img src="images/Workflow.png" width="500" alt="Workflow">
+  <img src="Workflow.jpg" width="500" alt="Workflow">
 </p>
 
 
