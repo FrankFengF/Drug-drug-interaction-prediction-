@@ -1,5 +1,5 @@
 # Drug-drug-interaction-prediction
-Use similarity-based machine learning approach to predict drug-drug interactions
+Developed a similarity-based machine learning framework for drug–drug interaction prediction, published in the Journal of Biomedical Informatics (DOI: 10.1016/j.jbi.2025.104923).
 
 ## Workflow Overview
 Below shows the graphic abstract of the overall workflow:
